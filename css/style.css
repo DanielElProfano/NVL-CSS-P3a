@@ -1,0 +1,20 @@
+ul {
+  color: #000000;
+  background-color: #fabada;
+ 
+}
+h1{
+	color: white;
+	background-color: #206090;
+	margin: center;
+}
+body{
+  background:#205080;
+}
+
+hr {
+border: 2;
+border-top: 2px solid #999; 
+border-bottom: 2px solid #333;
+height:10;
+}
